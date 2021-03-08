@@ -3,7 +3,7 @@
  * description: Bubble sort for next.
  * homepage: https://github.com/afeiship/next-bubble-sort
  * version: 1.0.0
- * date: 2021-03-08 11:09:52
+ * date: 2021-03-08 19:43:46
  * license: MIT
  */
 
@@ -15,7 +15,7 @@
   nx.bubbleSort = function (inArray) {
     var temp;
     for (var i = 0; i < inArray.length - 1; i++) {
-      for (let j = 0; j < inArray.length - i - 1; j++) {
+      for (var j = 0; j < inArray.length - i - 1; j++) {
         if (inArray[j] > inArray[j + 1]) {
           temp = inArray[j];
           inArray[j] = inArray[j + 1];

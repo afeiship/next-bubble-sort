@@ -6,7 +6,7 @@
   nx.bubbleSort = function (inArray) {
     var temp;
     for (var i = 0; i < inArray.length - 1; i++) {
-      for (let j = 0; j < inArray.length - i - 1; j++) {
+      for (var j = 0; j < inArray.length - i - 1; j++) {
         if (inArray[j] > inArray[j + 1]) {
           temp = inArray[j];
           inArray[j] = inArray[j + 1];
