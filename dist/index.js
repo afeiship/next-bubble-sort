@@ -2,8 +2,8 @@
  * name: @jswork/next-bubble-sort
  * description: Bubble sort for next.
  * homepage: https://github.com/afeiship/next-bubble-sort
- * version: 1.0.0
- * date: 2021-03-08 19:43:46
+ * version: 1.0.1
+ * date: 2021-03-08 20:08:53
  * license: MIT
  */
 
