@@ -15,7 +15,9 @@ npm install -S @jswork/next-bubble-sort
 ```js
 import '@jswork/next-bubble-sort';
 
-//DOCS here!
+nx.bubbleSort([3, 44, 38, 5, 47, 15, 36, 26, 27, 2, 46, 4, 19, 50, 48]);
+
+// [ 2,  3,  4,  5, 15, 19, 26, 27, 36, 38, 44, 46, 47, 48, 50 ]
 ```
 
 ## license
