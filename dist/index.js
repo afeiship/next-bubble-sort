@@ -3,7 +3,7 @@
  * description: Bubble sort for next.
  * homepage: https://github.com/afeiship/next-bubble-sort
  * version: 1.0.0
- * date: 2021-03-08 10:57:08
+ * date: 2021-03-08 11:09:52
  * license: MIT
  */
 
